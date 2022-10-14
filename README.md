@@ -1,24 +1,24 @@
 # BackgroundManagementSystem
-基于vue2+vue-router+vuex+element-ui的后台管理系统demo
+基于vue2的后台管理系统demo
 
-## Project setup
+## UI框架
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+element-ui、echarts、less
 ```
 
-### Compiles and minifies for production
+### 网络请求框架
 ```
-yarn build
+axios、mockjs
 ```
 
-### Lints and fixes files
+### 组件通信框架
 ```
-yarn lint
+vue-router、vuex
+```
+
+### css语言
+```
+less
 ```
 
 ### Customize configuration
