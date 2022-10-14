@@ -1,5 +1,5 @@
 # BackgroundManagementSystem
-基于vue2的后台管理系统demo
+基于vue2+vue-router+vuex+element-ui的后台管理系统demo
 
 ## Project setup
 ```
