@@ -21,7 +21,7 @@
 </template>
 
 <script>
-import Message from "element-ui";
+import { Message } from "element-ui";
 import Cookie from "js-cookie";
 import { getMenu } from "../../api/data.js";
 
